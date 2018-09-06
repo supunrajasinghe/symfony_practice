@@ -1,0 +1,5 @@
+home:
+    resource: "@HomeBundle/Controller"
+    prefix:   /
+    type: annotation
+
